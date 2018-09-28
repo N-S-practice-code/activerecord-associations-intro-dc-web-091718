@@ -1,3 +1,3 @@
-class Artists < ActiveRecord::Migration[4.2]
+class Artist < ActiveRecord::Base
 
 end
